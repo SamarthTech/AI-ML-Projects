@@ -19,5 +19,5 @@ So when Running the Command in the Project directory:-
 
   <img  src="./img/handsign.jpg">
 
-  here as you can see it,s Detecting my hand which is showing the C alphabet.  
+  here as you can see it,s Detecting my hand which is showing the C alphabet with 100% Accuracy 
 
